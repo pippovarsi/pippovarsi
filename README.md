@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pippovarsi
-- 👀 I’m interested in Front End Devolopment
+- 👀 I’m interested in Web Devolopment
 - 🌱 I’m currently learning HTML,CSS,Js and Java
 - 💞️ I’m looking to collaborate on everything encourage my curiosity
 - 📫 How to reach me .. email: pippovarsi@gmail.com
